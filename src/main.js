@@ -1,4 +1,5 @@
 // react = 组件化 + jsx + vDom
+// react文档 https://zh-hans.reactjs.org/
 
 
 import { toyReact, Component } from "./lib/core.js";
